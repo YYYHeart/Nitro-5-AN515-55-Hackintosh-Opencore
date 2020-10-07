@@ -15,7 +15,7 @@
 
 ### 支持MacOS Big Sur 11.0
 
-![image-20201007151944043](/Users/jason/Library/Application Support/typora-user-images/image-20201007151944043.png)
+![image-1](https://raw.githubusercontent.com/YYYHeart/Nitro-5-AN515-55-Hackintosh/main/img/desktop.png?token=AOZVPJMRSRFBZIO5IGRWQUS7PWH4O)
 
 ### 哪些硬件工作？
 

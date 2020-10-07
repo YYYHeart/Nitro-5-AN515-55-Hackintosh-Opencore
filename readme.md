@@ -15,7 +15,7 @@
 
 ### 支持MacOS Big Sur 11.0
 
-![image-1](https://raw.githubusercontent.com/YYYHeart/Nitro-5-AN515-55-Hackintosh/main/img/desktop.png?token=AOZVPJMRSRFBZIO5IGRWQUS7PWH4O)
+![image-1](https://github.com/YYYHeart/Nitro-5-AN515-55-Hackintosh/blob/main/img/desktop.png)
 
 ### 哪些硬件工作？
 

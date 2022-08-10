@@ -26,7 +26,7 @@
 | 电脑型号 |                Mac  OS Big Sur 11.0                |
 | 处理器   |            Intel(R)  Core(TM) i5 10300H            |
 | 内存     |                16  GB DDR4 2933MHz                 |
-| 硬盘     | HFM512GDJTNI-82A0A/西部世界SN530(批次不同硬盘不同) |
+| 硬盘     | HFM512GDJTNI-82A0A/SN530(批次不同硬盘不同) |
 | 显卡     |              Intel  UHD Graphics 630               |
 | 声卡     |                  Realtek  ALC295                   |
 | 网卡     |                    Intel  AX201                    |
